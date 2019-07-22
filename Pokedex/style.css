@@ -1,0 +1,16 @@
+.wrapper {
+    display: inline-flex;
+}
+
+.left {
+    width: 75%;
+}
+
+.right {
+    width: 20%;
+    height: 350px;
+    ;
+    border: 20px solid red;
+    border-bottom: 40px solid red;
+    margin-top: 20px;
+}
